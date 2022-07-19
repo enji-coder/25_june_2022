@@ -1,0 +1,52 @@
+Email  (orginal gmail) 
+
+username e.g.   enji-coder 
+
+password
+confirm password
+
+
+-----------------------------
+login in browser with email or username and password 
+
+download github desktop 
+
+
+------------------------------
+open github desktop 
+
+go to file menu 
+|
+V
+Add local repo 
+|
+V
+
+choose
+|
+V
+create new folder with batch name 
+|
+V
+click on create a repo 
+|
+V
+now , click on create repository 
+|
+V
+publish repo
+|
+V
+make sure - keep this code private is uncheck
+|
+V
+click on publish repo 
+|
+V
+paste your assignment file in created repo folder 
+|
+V
+in github desktop write summary and click on commit to main 
+|
+V
+click on push origin
